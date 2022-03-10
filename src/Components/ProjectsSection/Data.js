@@ -14,19 +14,21 @@ import Image3_1 from '../../images/patternsProject/a-1.png'
 import Image3_2 from '../../images/patternsProject/a-2.png' 
 import Image3_3 from '../../images/patternsProject/a-3.png' 
 import Image3_4 from '../../images/patternsProject/a-4.png' 
-
+import Image5_1 from '../../images/squidProject/1SQUID.png' 
+import Image5_2 from '../../images/squidProject/2SQUID.png' 
+import Image5_3 from '../../images/squidProject/3SQUID.png' 
+import Image5_4 from '../../images/squidProject/4SQUID.png' 
 
 
 export const images = [
     {
       id: 1,
-      title: 'React | Django',
-      project: 'Web application: Softcori',
+      title: 'Angular | Spring Boot',
+      project: 'Web application: Squid',
       width: '25%',
-      description: 'Accounting and inventory company project designed and developed as a freelancer.',
-      tags : ['React Hooks', 'Django', 'Python', 'GraphQL', 'PostgreSQL', 'MaterialUI'],
-      photos: []
-
+      description: 'Final project of the Project 3 course at Cenfotec University. Appointment management and vehicle maintenance application. ',
+      tags : ['Angular', 'Java', 'Spring Boot', 'MySQL', 'JHipster'],
+      photos: [Image5_1,Image5_2,Image5_3,Image5_4]
     },
     {
       id: 2,

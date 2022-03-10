@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.e925c85b.chunk.css",
-    "main.js": "/portfolio/static/js/main.f55f6fe7.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.f55f6fe7.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.f223e815.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.f223e815.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.fa9f6d6e.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.fa9f6d6e.js.map",
     "static/css/2.cedcfaf2.chunk.css": "/portfolio/static/css/2.cedcfaf2.chunk.css",
@@ -12,6 +12,10 @@
     "static/css/2.cedcfaf2.chunk.css.map": "/portfolio/static/css/2.cedcfaf2.chunk.css.map",
     "static/css/main.e925c85b.chunk.css.map": "/portfolio/static/css/main.e925c85b.chunk.css.map",
     "static/js/2.eaf88926.chunk.js.LICENSE.txt": "/portfolio/static/js/2.eaf88926.chunk.js.LICENSE.txt",
+    "static/media/1SQUID.aa29e3d8.png": "/portfolio/static/media/1SQUID.aa29e3d8.png",
+    "static/media/2SQUID.62149575.png": "/portfolio/static/media/2SQUID.62149575.png",
+    "static/media/3SQUID.51797f69.png": "/portfolio/static/media/3SQUID.51797f69.png",
+    "static/media/4SQUID.4fbf759e.png": "/portfolio/static/media/4SQUID.4fbf759e.png",
     "static/media/MZCV.ef6c5c7b.pdf": "/portfolio/static/media/MZCV.ef6c5c7b.pdf",
     "static/media/WA.1ee748db.png": "/portfolio/static/media/WA.1ee748db.png",
     "static/media/a-1.20510a4f.png": "/portfolio/static/media/a-1.20510a4f.png",
@@ -43,6 +47,6 @@
     "static/css/2.cedcfaf2.chunk.css",
     "static/js/2.eaf88926.chunk.js",
     "static/css/main.e925c85b.chunk.css",
-    "static/js/main.f55f6fe7.chunk.js"
+    "static/js/main.f223e815.chunk.js"
   ]
 }

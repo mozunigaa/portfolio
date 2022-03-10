@@ -14,10 +14,10 @@ import Image3_1 from '../../images/patternsProject/a-1.png'
 import Image3_2 from '../../images/patternsProject/a-2.png' 
 import Image3_3 from '../../images/patternsProject/a-3.png' 
 import Image3_4 from '../../images/patternsProject/a-4.png' 
-import Image5_1 from '../../images/squidProject/1SQUID.png' 
-import Image5_2 from '../../images/squidProject/2SQUID.png' 
-import Image5_3 from '../../images/squidProject/3SQUID.png' 
-import Image5_4 from '../../images/squidProject/4SQUID.png' 
+import Image5_1 from '../../images/squidProject/1SQUID.PNG' 
+import Image5_2 from '../../images/squidProject/2SQUID.PNG' 
+import Image5_3 from '../../images/squidProject/3SQUID.PNG' 
+import Image5_4 from '../../images/squidProject/4SQUID.PNG' 
 
 
 export const images = [

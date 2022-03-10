@@ -5,11 +5,13 @@ import {BrowserRouter as Router, Switch, Route} from 'react-router-dom';
 
 function App() {
   return (
-    <Router>
-      <Switch>  
-        <Route path="/" component= {Home} exact />
-      </Switch>
-    </Router>
+    <BrowserRouter basename={window.location.pathname || ''}>
+      <Router>
+        <Switch>  
+          <Route path="/" component= {Home} exact />
+        </Switch>
+      </Router>
+    </BrowserRouter>
   );
 }
 
